@@ -1,8 +1,8 @@
-:root {
+:root{
     /* FONT */
-    --font-dm-sans: "DM Sans", sans-serif;
+    --font-dm-sans:"DM Sans", sans-serif;
 
     /* COLORS */
-    --bg-icon: #131313;
-    --bg-arrow-color: rgba(0, 0, 0, 7)
+    --bg-icon:#131313;
+    --bg-arrow-color:rgba(0,0,0,7)
 }
