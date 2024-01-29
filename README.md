@@ -14,6 +14,9 @@ Este é o projeto final da Imersão Front-End da Alura, inspirado no visual do S
 
 **Aula 05** - Na aula 05 da Imersão Front-End, os instrutores introduziram a biblioteca React, que é usada para criar componentes e construir aplicações front-end de forma mais organizada e eficiente. Eles mostraram como criar um projeto React usando o comando ```npx create-react-app <nome projeto>```. Também falaram sobre o conceito de VirtualDOM e como o React utiliza essa tecnologia para atualizar apenas as partes da página que foram modificadas, melhorando o desempenho da aplicação. Além disso, eles explicaram o que é JSX e como utilizá-lo para escrever código HTML dentro do JavaScript. Foi apresentado um exemplo de código de um componente de cabeçalho (Header) e seu estilo em CSS.
 
+Aqui está o link para acessar o projeto em REACT
+[Spotify-Clone](https://github.com/satoosan/Spotify-Clone/tree/main/spotify-react)
+
 ## Instalação
 
 1. Clone o repositório: `https://github.com/satoosan/Spotify-Clone.git`
