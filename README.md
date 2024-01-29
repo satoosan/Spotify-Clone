@@ -17,8 +17,8 @@ Este é o projeto final da Imersão Front-End da Alura, inspirado no visual do S
 ## Instalação
 
 1. Clone o repositório: `https://github.com/satoosan/Spotify-Clone.git`
-2. Instale as dependências: `npm install`
-3. Inicie o servidor JSON: `json-server --watch db.json`
+2. Instale as dependências: `npm i json-server -g `
+3. Inicie o servidor JSON: `json-server --watch api-artists/artists.json`
 4. Abra o arquivo `index.html` no seu navegador.
 
 ## Funcionalidades
