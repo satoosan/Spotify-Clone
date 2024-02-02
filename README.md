@@ -2,6 +2,8 @@
 
 Este é o projeto final da Imersão Front-End da Alura, inspirado no visual do Spotify. Durante a imersão, foram abordados conceitos de HTML, CSS e JS, além de tópicos como CSS Grid, media queries e manipulação do DOM.
 
+Acesse o site por aqui: [Spotify CLone](https://spotify-imersao-alura.netlify.app/)
+
 ## Resumo das aulas 01 até a 05
 
 **Aula 01** - Na primeira aula da Imersão Front-End, os instrutores revisaram conceitos básicos de HTML e CSS e introduziram o projeto do Spotify Clone. O foco da aula foi criar a parte de navegação lateral do site, também conhecida como barra lateral. Foram utilizadas tags HTML como ```<nav>, <ul>, <li> e <a>``` para criar a estrutura da barra lateral, e estilizadas com CSS para definir cores, tamanhos e posicionamento dos elementos. Além disso, também foi adicionado o logotipo do Spotify e ícones de menu utilizando a biblioteca de ícones Font Awesome.
